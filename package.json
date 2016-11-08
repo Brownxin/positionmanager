@@ -1,0 +1,22 @@
+{
+  "name": "positionmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brownxin/positionmanager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brownxin/positionmanager/issues"
+  },
+  "homepage": "https://github.com/Brownxin/positionmanager#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
