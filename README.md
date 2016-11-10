@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img width="150" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" />
 <img width="50" src="https://angular.io/resources/images/logos/angular2/angular.svg" />
 
@@ -43,3 +44,10 @@ Structure of dist folder:
 ```
 
 
+=======
+# positionmanager
+
+This a project for learning purpose.
+
+Angular2 + express + postgreSQL
+>>>>>>> a488ef828bd2eac1176e4b9902f6b44abe4417b4
